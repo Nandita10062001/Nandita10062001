@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Open Source Projects <br> <br> 
 - 🌱 Currently exploring the fields of Website and Mobile App Development <br> <br> 
 -  ⚡ A Quick Learner <br> <br> 
-- 📫 How to reach me: <a href ="mailto: nanditanandakumar19@gmail.com">nanditankr106@gmail.com</a> <br>
+- 📫 How to reach me: <a href ="mailto: nanditanandakumar19@gmail.com">nanditanandakumar19@gmail.com</a> <br>
 <h3> 💭Areas of Interest: </h3>
 <ul>
 <li> Android App Development </li>
