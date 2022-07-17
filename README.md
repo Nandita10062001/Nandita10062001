@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Nandita Nandakumar</h2>
-<h2 align="center">I am a Third Year Computer Engineering Student at SIES GST🏫</h2>
+<h2 align="center">I am a Final Year Computer Engineering Student at SIES GST🏫</h2>
 <h3> 📜 About Me -</h3>
 - 👀 Passionate about learning and implementing new technologies!! <br> <br> 
 - 👯 I’m looking to collaborate on Open Source Projects <br> <br> 
