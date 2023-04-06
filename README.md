@@ -10,7 +10,9 @@
 <ul>
 <li> Android App Development </li>
 <li> Full-Stack Web Development </li>
-<li> UI/UX Designing </li>
+<li> Flutter App Development </li>
+<li> Artificial Intelligence and Machine Learning </li>
+<li> Deep Learning </li>
 <li> Cloud Computing </li>
 </ul>
 <h3 align="left"> 🔧Languages and Tools:</h3>
