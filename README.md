@@ -1,10 +1,11 @@
-<h2 align="center">Hi 👋, I'm Nandita Nandakumar</h2>
-<h2 align="center">I am a Final Year Computer Engineering Student at SIES GST🏫</h2>
+<h2 align="center">Hi 👋, I'm Nandita Nandakumar </h2>
+<h2 align="center">I am a Computer Engineer with a keen interest of research in the field of AI, ML as well as Deep Learning and Neural Networks.📜</h2>
 <h3> 📜 About Me -</h3>
+- 👩‍💼 I aim to be a Lead Data Scientist in a reputed company
 - 👀 Passionate about learning and implementing new technologies!! <br> <br> 
 - 👯 I’m looking to collaborate on Open Source Projects <br> <br> 
 - 🌱 Currently exploring the fields of Website and Mobile App Development <br> <br> 
--  ⚡ A Quick Learner <br> <br> 
+- ⚡ A Quick Learner <br> <br> 
 - 📫 How to reach me: <a href ="mailto: nanditankr1062001@gmail.com">nanditankr1062001@gmail.com</a> <br>
 <h3> 💭Areas of Interest: </h3>
 <ul>
@@ -12,7 +13,7 @@
 <li> Full-Stack Web Development </li>
 <li> Flutter App Development </li>
 <li> Artificial Intelligence and Machine Learning </li>
-<li> Deep Learning </li>
+<li> Deep Learning and Neural Networks</li>
 <li> Cloud Computing </li>
 </ul>
 <h3 align="left"> 🔧Languages and Tools:</h3>
