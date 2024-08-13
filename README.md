@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Nandita Nandakumar </h2>
-<h2 align="center">I am a Computer Engineer with an interest of research in the field of AI, ML as well as Deep Learning and Neural Networks.📜</h2>
+<h2 align="center">I am a Computer Engineer with an interest in research in the fields of AI, ML as well as Deep Learning and Neural Networks.📜</h2>
 <h3> 📜 About Me -</h3>
 - 👩‍💼 I aim to be a Lead AI Research Scientist in a reputed company <br> <br>
 - 👀 Passionate about learning and implementing new technologies!! <br> <br> 
