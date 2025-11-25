@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hi, I'm Nandita Nandakumar</h1>
-<p align="center"> Machine Learning Engineer | Applied AI & Computer Vision | Agentic & Autonomous Systems</p>
+<p align="center"> <b>Machine Learning Engineer | Applied AI & Computer Vision | Agentic & Autonomous Systems </b></p>
 
 <p align="center">
   Ex-AI/ML Engineer @ Atmos Climate • Founding ML Engineer @ Krishiboot, IIT Bombay  
-  <br>"Deploying AI where it matters most."
+  <br><i>"Deploying AI where it matters most."</i>
 </p>
 
-<div align="justify">
+<div style="text-align: justify;">
   
 ### 💫 About Me
 I’m a Machine Learning Engineer focused on building real-world systems with a strong research interest in Deep learining and Computer Vision. 
