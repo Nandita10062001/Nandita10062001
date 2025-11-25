@@ -6,8 +6,7 @@
   <br>"Deploying AI where it matters most."
 </p>
 
-## 💫 About Me
-
+### 💫 About Me
 I’m a Machine Learning Engineer focused on building real-world systems with a strong research interest in Deep learining and Computer Vision. 
 My current work focuses on developing intelligent, robust, and field-ready ML systems for precision agriculture and environmental monitoring
 
