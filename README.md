@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Nandita Nandakumar</h1>
-<h3 align="center"> Machine Learning Engineer | Applied AI & Computer Vision | Agentic & Autonomous Systems</h3>
+<p align="center"> Machine Learning Engineer | Applied AI & Computer Vision | Agentic & Autonomous Systems</p>
 
 <p align="center">
   Ex-AI/ML Engineer @ Atmos Climate • Founding ML Engineer @ Krishiboot, IIT Bombay  
@@ -51,5 +51,5 @@ My current work focuses on developing intelligent, robust, and field-ready ML sy
 ![](https://github-contributor-stats.vercel.app/api?username=Nandita10062001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Nandita10062001&icon=6&color=13)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Nandita10062001&color=blue)
 
