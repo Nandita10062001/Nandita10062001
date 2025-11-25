@@ -6,7 +6,7 @@
   <br><i>"Deploying AI where it matters most."</i>
 </p>
 
-<div style="text-align: justify;">
+<div align="justify">
   
 ### 💫 About Me
 I’m a Machine Learning Engineer focused on building real-world systems with a strong research interest in Deep learining and Computer Vision. 
