@@ -6,7 +6,8 @@
   <br><i>"Deploying AI where it matters most."</i>
 </p>
 
-<div align="justify">  
+<div align="justify"> 
+  
 ### 💫 About Me
 I’m a Machine Learning Engineer focused on building real-world systems with a strong research interest in deep learning and computer vision. 
 My current work focuses on developing intelligent, robust, and field-ready ML systems for precision agriculture and environmental monitoring
@@ -51,5 +52,7 @@ My current work focuses on developing intelligent, robust, and field-ready ML sy
 ![](https://github-contributor-stats.vercel.app/api?username=Nandita10062001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+Open to research collaborations and exciting ML projects. Let's build AI that makes a difference! 🚀
+
 ![](https://komarev.com/ghpvc/?username=Nandita10062001&color=blue)
 
