@@ -5,7 +5,7 @@
 <p align="center"> <b>Machine Learning Engineer | Applied AI & Computer Vision | Agentic & Autonomous Systems </b></p>
 
 <p align="center">
-  Ex-AI/ML Engineer @ Atmos Climate • Founding ML Engineer @ Krishiboot, IIT Bombay  
+  Founding ML Engineer @ Krishiboot, IIT Bombay • Ex-AI/ML Engineer @ Atmos Climate
   <br><i>"Deploying AI where it matters most."</i>
 </p>
   <p align="center">
@@ -28,33 +28,21 @@ My current work focuses on developing intelligent, robust, and field-ready ML sy
 
 ### 🚀 What I Do & Areas of Interest
 
-<table>
-  <tr>
-    <td width="55%" valign="top">
-      <h4 align="center">⚡ Currently working on:</h4>
-      <ul>
-        <li>Build and train ML and computer vision models</li>
-        <li>Develop end-to-end pipelines for agricultural & automated systems</li>
-        <li>Deploy AI on edge devices(Jetson, ARM, microcontrollers)</li>
-        <li>Work with <b>LLMs, multimodal models, & agentic AI</b></li>
-        <li>Improve model efficiency & integrate AI into production systems  </li>
-        <br>
-      </ul>
-    </td>
-    <td width="45%" valign="top">
-      <h4 align="center">🧠 Research Interests:</h4>
-      <ul>
-        <li>Artificial Intelligence, Machine Learning & Deep Learning</li>
-        <li>Computer Vision for agriculture & real-world systems</li>
-        <li>Geospatial & satellite image analysis</li>
-        <li>Edge AI, autonomous systems, & robotics</li>
-        <li>MLOps & production-grade ML engineering</li>
-        <br>
-      </ul>
-    </td>
-  </tr>
-</table>
+⚡ **Currently working on:**
+- Build and train ML and computer vision models
+- Develop end-to-end pipelines for agricultural & automated systems
+- Deploy AI on edge devices (Jetson, ARM, microcontrollers)
+- Work with **LLMs, multimodal models, & agentic AI**
+- Improve model efficiency & integrate AI into production systems
 
+---
+
+🧠 **Research Interests:**
+- Artificial Intelligence, Machine Learning & Deep Learning
+- Computer Vision for agriculture & real-world systems
+- Geospatial & satellite image analysis
+- Edge AI, autonomous systems, & robotics
+- MLOps & production-grade ML engineering
 
 ---
 
