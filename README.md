@@ -6,7 +6,7 @@
   <br><i>"Deploying AI where it matters most."</i>
 </p>
 
-  
+<div align="justify">  
 ### 💫 About Me
 I’m a Machine Learning Engineer focused on building real-world systems with a strong research interest in deep learning and computer vision. 
 My current work focuses on developing intelligent, robust, and field-ready ML systems for precision agriculture and environmental monitoring
@@ -28,7 +28,7 @@ My current work focuses on developing intelligent, robust, and field-ready ML sy
 - Edge AI, autonomous systems, and robotics 
 - MLOps and production-grade ML engineering 
 - Open-source AI projects and collaborations
-
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nandita-nandakumar-1320a91b0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandita@krishiboot.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.nandiitaaa.__) 
