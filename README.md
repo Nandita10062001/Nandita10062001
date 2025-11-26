@@ -19,7 +19,7 @@
 <div align="justify"> 
   
 ### 💫 About Me
-I’m a Machine Learning Engineer focused on building real-world systems with a strong research interest in deep learning and computer vision. 
+I’m a Machine Learning Engineer focused on building real-world systems with strong research interests in deep learning and computer vision. 
 My current work focuses on developing intelligent, robust, and field-ready ML systems for precision agriculture and environmental monitoring
 
 **🎯 Vision:** To become a **Lead AI Research Scientist** one day! I look forward to contributing to applied AI innovations that create measurable impact across industries.
