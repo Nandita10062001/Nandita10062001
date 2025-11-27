@@ -117,7 +117,6 @@ My current work focuses on developing intelligent, robust, and field-ready ML sy
 ---
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nandita10062001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nandita10062001&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandita10062001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
